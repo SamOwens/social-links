@@ -1,7 +1,12 @@
 import './css/styles.css';
+import Card from './components/Card';
 
 function App() {
-  return <></>;
+  return (
+    <main>
+      <Card />
+    </main>
+  );
 }
 
 export default App;

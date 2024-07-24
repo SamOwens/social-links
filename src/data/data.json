@@ -1,0 +1,28 @@
+{
+  "image": "/img/avatar-jessica.jpeg",
+  "name": "Jessica Randall",
+  "location": "London, United Kingdom",
+  "text": "\"Front-end developer and avid reader.\"",
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "#"
+    },
+    {
+      "name": "Frontend Mentor",
+      "url": "#"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "#"
+    },
+    {
+      "name": "Twitter",
+      "url": "#"
+    },
+    {
+      "name": "Instagram",
+      "url": "#"
+    }
+  ]
+}
