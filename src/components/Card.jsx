@@ -10,7 +10,7 @@ const Card = () => {
         alt={data.name}
         className="mb-6 w-avatar h-avatar rounded-full"
       ></img>
-      <h1 className="text-2xl font-semibold mb-1">{data.name}</h1>
+      <h1 className="text-2xl font-semibold mb-1 font-inter">{data.name}</h1>
       <p className="text-green-1 text-sm font-bold mb-6">{data.location}</p>
       <p className="mb-6 text-sm">{data.text}</p>
       <div className="flex flex-col w-full">
